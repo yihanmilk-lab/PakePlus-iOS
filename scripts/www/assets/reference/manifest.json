@@ -1,0 +1,92 @@
+{
+  "sourceReference": "E:\\yunguli\\云故里2.0\\ui设计稿\\云故里-首页-总览2.png",
+  "assets": {
+    "brand": {
+      "sourceBox": [
+        45,
+        47,
+        525,
+        224
+      ],
+      "file": "/assets/reference/brand.png"
+    },
+    "featured-paper": {
+      "sourceBox": [
+        24,
+        417,
+        829,
+        720
+      ],
+      "file": "/assets/reference/featured-paper.png"
+    },
+    "ethnic-0": {
+      "sourceBox": [
+        46,
+        752,
+        184,
+        890
+      ],
+      "file": "/assets/reference/ethnic-0.png"
+    },
+    "ethnic-1": {
+      "sourceBox": [
+        204,
+        752,
+        342,
+        890
+      ],
+      "file": "/assets/reference/ethnic-1.png"
+    },
+    "ethnic-2": {
+      "sourceBox": [
+        362,
+        752,
+        500,
+        890
+      ],
+      "file": "/assets/reference/ethnic-2.png"
+    },
+    "ethnic-3": {
+      "sourceBox": [
+        519,
+        752,
+        657,
+        890
+      ],
+      "file": "/assets/reference/ethnic-3.png"
+    },
+    "ethnic-4": {
+      "sourceBox": [
+        676,
+        752,
+        814,
+        890
+      ],
+      "file": "/assets/reference/ethnic-4.png"
+    },
+    "brand-v2": {
+      "sourceBox": [
+        45,
+        47,
+        525,
+        224
+      ],
+      "file": "/assets/reference/brand-v2.png"
+    },
+    "favorite": {
+      "sourceBox": [
+        234,
+        1344,
+        276,
+        1386
+      ],
+      "file": "/assets/reference/favorite.png"
+    }
+  },
+  "sharedTabSource": "E:\\yunguli\\云故里2.0\\ui设计稿\\云故里-首页-底部Tab组件.png",
+  "refinements": [
+    "Brand uses reference v2",
+    "Ethnic badges use connected background alpha removal",
+    "Favorite uses source icon instead of Unicode"
+  ]
+}
