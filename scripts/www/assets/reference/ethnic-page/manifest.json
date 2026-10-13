@@ -1,0 +1,59 @@
+{
+  "sourceReference": "E:\\yunguli\\云故里2.0\\ui设计稿\\云故里-民族选择-UI设计稿.png",
+  "canvas": {
+    "width": 853,
+    "height": 1844
+  },
+  "assets": {
+    "dai": {
+      "sourceBox": [
+        149,
+        171,
+        739,
+        585
+      ],
+      "file": "/assets/reference/ethnic-page/dai.png",
+      "alpha": true
+    },
+    "miao": {
+      "sourceBox": [
+        5,
+        541,
+        438,
+        884
+      ],
+      "file": "/assets/reference/ethnic-page/miao.png",
+      "alpha": true
+    },
+    "yi": {
+      "sourceBox": [
+        432,
+        567,
+        852,
+        913
+      ],
+      "file": "/assets/reference/ethnic-page/yi.png",
+      "alpha": true
+    },
+    "bai": {
+      "sourceBox": [
+        137,
+        833,
+        720,
+        1220
+      ],
+      "file": "/assets/reference/ethnic-page/bai.png",
+      "alpha": true
+    },
+    "other": {
+      "sourceBox": [
+        105,
+        1182,
+        458,
+        1397
+      ],
+      "file": "/assets/reference/ethnic-page/other.png",
+      "alpha": true
+    }
+  }
+}
